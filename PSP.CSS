@@ -1,90 +1,122 @@
-#nav1{
-    background-image: url('Rectangle.png'); 
-    width: 1500px; 
+#nav1 {
+    background-image: url('assests/Rectangle.png');
+    width: 1500px;
 }
-#shape{
+
+#shape {
     margin-top: 100px;
     margin-left: 30px;
-    height: 3px;
-    width: 2px;
+    width: -40px;
 }
-#nav{
-    margin-left: 200px;
-}
-#img{
-    margin-left: 100px;
+
+#img {
+    margin-left: 1260px;
     margin-right: 40px;
-    margin-top: 10px;
+    margin-top: -30px;
 }
-#cls1{
+
+#cls1 {
     margin-top: 60px;
     margin-left: 420px;
     height: 150px;
-    display:inline-block;
-}
-#cls2{
-    margin-left: 320px;
-    height: 50px;
-    display:inline-block;
-}
-#cls3{
-    margin-left: 320px;
-    height: 25px;
-    display:inline-block;
-}
-#cls4{
-    margin-left: 320px;
-    height: 35px;
-    display:inline-block;
+    display: inline-block;
 }
 
-#frstpage{
-    background-color:#f0b52b; 
+#cls2 {
+    margin-left: 320px;
+    height: 50px;
+    display: inline-block;
+}
+
+#cls3 {
+    margin-left: 320px;
+    height: 25px;
+    display: inline-block;
+}
+
+#cls4 {
+    margin-left: 320px;
+    height: 35px;
+    display: inline-block;
+}
+
+#frstpage {
+    background-color: #f0b52b;
     position: absolute;
     margin-top: 0%;
     width: 1500px;
 }
-#p1{
+
+#p1 {
     margin-left: 70px;
 }
-#cls{
+
+#cls {
     float: top;
     margin-top: 50px;
 }
-#lg{
+
+#lg {
     height: 100px;
     width: 450px;
     margin-left: 580px;
     margin-top: 300px;
     margin-bottom: 40px;
 }
-#tk{
+
+#tk {
     font-size: 42px;
     color: #ffffff;
     font-weight: 600;
     font-family: "Josefin Sans";
     text-align: center;
 }
-#ln{
-font-size: xx-large;
-width: 262px;
-height: 68px;
-border-radius: 34px;
-text-align: center;
-background-color: #c8206a;
-margin-left: 600px;
-padding-top: 20px;
-padding-left: 10px;
-padding-right: 10px;
-color: #ffffff;
-font-family: "Josefin Sans";
+
+#ln {
+    font-size: xx-large;
+    width: 262px;
+    height: 68px;
+    border-radius: 34px;
+    text-align: center;
+    background-color: #c8206a;
+    margin-left: 600px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #ffffff;
+    font-family: "Josefin Sans";
 }
 
-#bg{
+#bg {
     height: 600px;
     width: 1500px;
     margin-top: 500px;
-   background-color:#3752a5 ;
-   /*background-image: url('pg.png');*/
+    background-color: #3752a5;
+    /*background-image: url('pg.png');*/
     position: absolute;
+}
+
+#pg1img1 {
+    width: 1500px;
+    height: 800px;
+    margin-top: -70px;
+}
+
+#pg1p1 {
+    color: red;
+    margin-top: -330px;
+    margin-left: 310px;
+    width: 880px;
+    height: 415px;
+    font-size: 18px;
+    font-weight: 400;
+   
+}
+#pg2p1{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: -480px;
+
 }
