@@ -1,6 +1,7 @@
 #nav1 {
     background-image: url('assests/Rectangle.png');
     width: 1500px;
+    height: 80px;
 }
 
 #shape {
@@ -12,7 +13,7 @@
 #img {
     margin-left: 1260px;
     margin-right: 40px;
-    margin-top: -30px;
+    margin-top: -155px;
 }
 
 #cls1 {
@@ -98,8 +99,8 @@
 
 #pg1img1 {
     width: 1500px;
-    height: 800px;
-    margin-top: -70px;
+    height: 1000px;
+    margin-top: -158px;
 }
 
 #pg1p1 {
@@ -110,13 +111,236 @@
     height: 415px;
     font-size: 18px;
     font-weight: 400;
-   
+
 }
-#pg2p1{
+
+#pg2p1 {
     text-align: center;
     font-size: 42px;
     font-weight: 600;
     color: #ffffff;
     margin-top: -480px;
+}
 
+#pg2b1 {
+    margin-left: 600px;
+    margin-top: 40px;
+    font-size: 33px;
+    font-weight: 400;
+    width: 262px;
+    height: 68px;
+    border-radius: 34px;
+    background-color: #c8206a;
+    color: #ffffff;
+}
+
+#pg3div1 {
+    background-image: url('assests/firstpg1.jfif');
+    height: 1800px;
+    margin-top: 280px;
+    width: 1500px;
+}
+
+#pg3img1 {
+    width: 544px;
+    height: 544px;
+    margin-top: 200px;
+    margin-left: 190px;
+    border-radius: 50px;
+    position: relative;
+}
+
+#pg3img2 {
+    width: 256px;
+    height: 256px;
+    margin-top: -90px;
+    margin-left: 20px;
+    position: relative;
+}
+
+#pg3img3 {
+    width: 256px;
+    height: 256px;
+    margin-top: -95px;
+    margin-left: 20px;
+    position: relative;
+}
+
+#pg3img4 {
+    width: 256px;
+    height: 256px;
+    margin-left: 762px;
+    margin-top: -280px;
+    position: relative;
+}
+
+#pg3img5 {
+    width: 256px;
+    height: 256px;
+    margin-left: 1046px;
+    margin-top: -311px;
+    position: relative;
+}
+
+#pg3p1 {
+    position: absolute;
+    font-size: 42px;
+    font-family: "Josefin Sans";
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: -450px;
+    margin-left: 260px;
+}
+
+#pg3p2 {
+    position: absolute;
+    width: 892px;
+    height: 297px;
+    font-size: 29px;
+    color: #ffffff;
+    font-weight: 400;
+    margin-top: -380px;
+    margin-left: 260px;
+}
+
+#pg3i6star {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -520px;
+}
+
+#pg3i7ball {
+    position: absolute;
+    margin-left: 830px;
+    margin-top: -500px;
+}
+
+#pg3i8star {
+    position: absolute;
+    margin-left: 920px;
+    margin-top: -400px;
+    height: 20px;
+}
+
+#pg3i9bigstar {
+    position: absolute;
+    margin-left: 1090px;
+    margin-top: -420px;
+    height: 25px;
+}
+
+#pg3i10world {
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: -530px;
+
+}
+
+#pg3i11star {
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: -560px;
+}
+
+#pg3i13scale {
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -260px;
+}
+
+#pg3i12star {
+    position: absolute;
+    margin-left: 830px;
+    margin-top: -270px;
+    height: 30px;
+}
+
+#pg3i14star {
+    position: absolute;
+    margin-left: 925px;
+    margin-top: -183px;
+    height: 25px;
+}
+
+#pg3i15star {
+    position: absolute;
+    margin-left: 1110px;
+    margin-top: -269px;
+    height: 15px;
+}
+
+#pg3i16 {
+    position: absolute;
+    margin-left: 1145px;
+    margin-top: -283px;
+
+}
+
+#pg3i17 {
+    position: absolute;
+    margin-left: 1205px;
+    margin-top: -263px;
+
+}
+
+#pg3p3 {
+    text-align: center;
+    font-size: 75px;
+    color: #3752a5;
+    font-weight: 700;
+    margin-top: 500px;
+}
+
+.card {
+    width: 355px;
+    height: 428px;
+    border-radius: 30px;
+    background-color: #ededed;
+    margin-left: 40px;
+    margin-top: 200px;
+}
+
+#pg4h1 {
+    font-size: 34px;
+    color: #3752a5;
+    font-weight: 700;
+    padding-left: 80px;
+    padding-top: 20px;
+    font-family: "Josefin Sans";
+}
+
+#pg4p1 {
+    width: 674px;
+    height: 436px;
+    font-size: 21px;
+    color: #3752a5;
+    font-weight: 400;
+    padding-left: 40px;
+    padding-top: 80px;
+
+}
+.card1 {
+    width: 355px;
+    height: 500px;
+    border-radius: 30px;
+    background-color: #ededed;
+    margin-left: 460px;
+    margin-top: -470px;
+}
+#pg4h2{
+    font-size: 34px;
+    color: #3752a5;
+    font-weight: 700;
+    padding-left: 120px;
+    padding-top: 20px;
+    font-family: "Josefin Sans";
+}
+#pg4p2{
+    width: 674px;
+    height: 436px;
+    font-size: 21px;
+    color: #3752a5;
+    font-weight: 400;
+    padding-left: 40px;
+    padding-top: 110px;
 }
