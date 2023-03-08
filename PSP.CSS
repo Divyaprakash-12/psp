@@ -1,46 +1,50 @@
 #nav1 {
-    background-image: url('assests/Rectangle.png');
+
     width: 1500px;
-    height: 80px;
+    height: 127px;
+    background-color: #3752a5;
 }
 
-#shape {
-    margin-top: 100px;
-    margin-left: 30px;
-    width: -40px;
+#nava1 {
+    margin-left: 780px;
+    color: aliceblue;
+    margin-top: 45px;
+    position: absolute;
 }
 
-#img {
-    margin-left: 1260px;
-    margin-right: 40px;
-    margin-top: -155px;
+#nava2 {
+    position: absolute;
+    margin-left: 880px;
+    color: aliceblue;
+    margin-top: 45px;
 }
 
-#cls1 {
-    margin-top: 60px;
-    margin-left: 420px;
-    height: 150px;
-    display: inline-block;
+#nava3 {
+    position: absolute;
+    margin-left: 980px;
+    color: aliceblue;
+    margin-top: 45px;
 }
 
-#cls2 {
-    margin-left: 320px;
-    height: 50px;
-    display: inline-block;
+#nava4 {
+    position: absolute;
+    margin-left: 1080px;
+    color: aliceblue;
+    margin-top: 45px;
 }
-
-#cls3 {
-    margin-left: 320px;
-    height: 25px;
-    display: inline-block;
+#navimg2{
+    margin-left: 1200px;
+    margin-top: 55px;
 }
-
-#cls4 {
-    margin-left: 320px;
-    height: 35px;
-    display: inline-block;
+#navimg3{
+    margin-top: 54px;
 }
-
+#navimg4{
+    margin-top: 54px;
+}
+#navimg5{
+    margin-top: 54px;
+}
 #frstpage {
     background-color: #f0b52b;
     position: absolute;
@@ -136,7 +140,7 @@
 
 #pg3div1 {
     background-color: #f0b52b;
-    height: 1800px;
+    height: 2300px;
     margin-top: 280px;
     width: 1500px;
 }
@@ -282,13 +286,17 @@
     margin-top: -263px;
 
 }
-
+#pg3i18{
+    position: absolute;
+    margin-left:200px ;
+    margin-top: 130px;
+}
 #pg3p3 {
     text-align: center;
     font-size: 75px;
     color: #3752a5;
     font-weight: 700;
-    margin-top: 500px;
+    margin-top: 455px;
 }
 
 .card {
@@ -296,7 +304,7 @@
     height: 428px;
     border-radius: 30px;
     background-color: #ededed;
-    margin-left: 250px;
+    margin-left: 150px;
     margin-top: 200px;
     position: absolute;
 }
@@ -326,7 +334,7 @@
     height: 500px;
     border-radius: 30px;
     background-color: #ededed;
-    margin-left: 650px;
+    margin-left: 550px;
     margin-top: 170px;
     position: absolute;
 }
@@ -356,7 +364,7 @@
     height: 428px;
     border-radius: 30px;
     background-color: #ededed;
-    margin-left: 1050px;
+    margin-left: 50px;
     margin-top: 205px;
     position: absolute;
 }
@@ -381,16 +389,15 @@
 }
 
 #pg4div1 {
-    background-color: #f0b52b;
+    background-color: cyan;
     height: 1000px;
     margin-top: -200px;
     width: 1500px;
     position: relative;
 }
 
-.pg5div1{
-  
-}
+.pg5div1 {}
+
 #pg5img1 {
     margin-top: 120px;
     margin-left: 160px;
@@ -788,24 +795,28 @@
     background-color: #eaeaea;
     margin-top: 350px;
     margin-left: 150px;
-   
+
 }
-#pg8img9{
+
+#pg8img9 {
     position: absolute;
     margin-top: 380px;
     margin-left: 1100px;
 }
-#pg8img10{
+
+#pg8img10 {
     position: absolute;
     margin-top: 380px;
     margin-left: 1150px;
 }
-#pg8img11{
+
+#pg8img11 {
     position: absolute;
     margin-top: 380px;
     margin-left: 1200px;
 }
-#pg8img12{
+
+#pg8img12 {
     position: absolute;
     margin-top: 380px;
     margin-left: 1250px;
