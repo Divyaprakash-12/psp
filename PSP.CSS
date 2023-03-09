@@ -32,18 +32,22 @@
     color: aliceblue;
     margin-top: 45px;
 }
+#navimg1{
+    margin-top: 40px;
+    margin-left: 20px;
+}
 #navimg2{
     margin-left: 1200px;
-    margin-top: 55px;
+    margin-top: 40px;
 }
 #navimg3{
-    margin-top: 54px;
+    margin-top: 40px;
 }
 #navimg4{
-    margin-top: 54px;
+    margin-top: 40px;
 }
 #navimg5{
-    margin-top: 54px;
+    margin-top: 40px;
 }
 #frstpage {
     background-color: #f0b52b;
@@ -108,7 +112,7 @@
 }
 
 #pg1p1 {
-    color: red;
+    color: #c8206a;
     margin-top: -330px;
     margin-left: 310px;
     width: 880px;
@@ -291,6 +295,86 @@
     margin-left:200px ;
     margin-top: 130px;
 }
+#pg3i19{
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 250px;
+}
+#pg3i20{
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 363px;
+}
+#pg3i21{
+    position: absolute;
+    margin-top: 133px;
+    margin-left: 815px;
+}
+#pg3i22{
+    position: absolute;
+    margin-top: 108px;
+    margin-left: 798px;
+}
+#pg3i23{
+    height: 24px;
+    width: 25px;
+    position: absolute;
+    margin-top: 242px;
+    margin-left: 1051px;
+}
+#pg3i24{
+   
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 1215px;
+}
+#pg3i25{
+   
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 235px;
+}
+#pg3i26{
+    position: absolute;
+    margin-top: 691px;
+    margin-left: 185px;
+}
+#pg3i27{
+    position: absolute;
+    margin-top: 941px;
+    margin-left: 565px;
+}
+#pg3i28{
+    position: absolute;
+    margin-top: 960px;
+    margin-left: 535px;
+    height: 76px;
+    width: 125px;
+}
+#pg3i29{
+    position: absolute;
+    margin-top: 1045px;
+    margin-left: 585px;
+  
+}
+#pg3i30{
+    position: absolute;
+    margin-top: 925px;
+    margin-left: 840px;
+  
+}
+#pg3i31{
+    position: absolute;
+    margin-top: 900px;
+    margin-left: 1080px;
+  
+}
+#pg3i32{
+    position: absolute;
+    margin-top: 875px;
+    margin-left: 1105px;
+  
+}
 #pg3p3 {
     text-align: center;
     font-size: 75px;
@@ -354,6 +438,7 @@
     height: 436px;
     font-size: 21px;
     color: #3752a5;
+   
     font-weight: 400;
     padding-left: 40px;
     padding-top: 110px;
@@ -364,7 +449,7 @@
     height: 428px;
     border-radius: 30px;
     background-color: #ededed;
-    margin-left: 50px;
+    margin-left: 950px;
     margin-top: 205px;
     position: absolute;
 }
@@ -389,14 +474,18 @@
 }
 
 #pg4div1 {
-    background-color: cyan;
-    height: 1000px;
+    background-color: #f0af17;
+    height: 900px;
     margin-top: -200px;
     width: 1500px;
     position: relative;
 }
 
-.pg5div1 {}
+.pg5div1{
+    background-color: #f0b52b;
+    width: 1500px;
+    height: 710px;
+}
 
 #pg5img1 {
     margin-top: 120px;
@@ -437,6 +526,9 @@
     position: absolute;
 }
 
+.pg6div1{
+    margin-top: 0px;
+}
 #pg6img1 {
     position: relative;
     filter: grayscale(100%);
@@ -455,56 +547,56 @@
 
 #pg6img3 {
     position: absolute;
-    margin-left: -980px;
+    margin-left: -1028px;
     margin-top: -455px;
 }
 
 #pg6img4 {
-    margin-left: -780px;
+    margin-left: -810px;
     position: absolute;
     margin-top: -450px;
 }
 
 #pg6img5 {
-    margin-left: -560px;
+    margin-left: -590px;
     position: absolute;
     margin-top: -455px;
 }
 
 #pg6img6 {
     position: absolute;
-    margin-left: -335px;
+    margin-left: -357px;
     margin-top: -455px;
 
 }
 
 #pg6img7 {
     position: absolute;
-    margin-left: -1050px;
+    margin-left: -1100px;
     margin-top: -440px;
 }
 
 #pg6img8 {
     position: absolute;
-    margin-left: -830px;
+    margin-left: -873px;
     margin-top: -440px;
 }
 
 #pg6img9 {
     position: absolute;
-    margin-left: -620px;
+    margin-left: -650px;
     margin-top: -440px;
 }
 
 #pg6img10 {
     position: absolute;
-    margin-left: -405px;
+    margin-left: -425px;
     margin-top: -440px;
 }
 
 #pg6img11 {
     position: absolute;
-    margin-left: -185px;
+    margin-left: -195px;
     margin-top: -440px;
 }
 
@@ -513,7 +605,7 @@
     font-size: 38px;
     color: #f0b52b;
     font-weight: 400;
-    margin-left: 410px;
+    margin-left: 360px;
     margin-top: -391px;
 }
 
@@ -522,7 +614,7 @@
     font-size: 38px;
     color: #f0b52b;
     font-weight: 400;
-    margin-left: 640px;
+    margin-left: 617px;
     margin-top: -391px;
 }
 
@@ -531,7 +623,7 @@
     font-size: 38px;
     color: #f0b52b;
     font-weight: 400;
-    margin-left: 840px;
+    margin-left: 810px;
     margin-top: -391px;
 }
 
@@ -540,7 +632,7 @@
     font-size: 38px;
     color: #f0b52b;
     font-weight: 400;
-    margin-left: 1074px;
+    margin-left: 1054px;
     margin-top: -391px;
 }
 
@@ -700,7 +792,7 @@
 
 #pg7img8 {
     margin-left: -55px;
-    color: #c6c6c6;
+    color: #c6c6c6;;
     opacity: 0.9;
 }
 
