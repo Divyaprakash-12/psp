@@ -52,7 +52,8 @@
 }
 
 #navimg5 {
-    margin-top: 40px;
+    margin-top: -49px;
+    margin-left: 1417px;
 }
 
 #frstpage {
@@ -115,6 +116,26 @@
     width: 1500px;
     height: 1000px;
     margin-top: -158px;
+}
+
+#pg1img2 {
+    margin-top: -700px;
+    margin-left: 700px;
+}
+
+#pg1img3 {
+    margin-top: -1000px;
+    margin-left: 400px;
+}
+
+#pg1img4 {
+    margin-top: -880px;
+    margin-left: -275px;
+}
+
+#pg1img5 {
+    margin-left: -200px;
+    margin-top: -780px;
 }
 
 #pg1p1 {
@@ -437,7 +458,7 @@
 }
 
 .card1 {
-   
+
     border-radius: 30px;
     margin-left: 550px;
     margin-top: 170px;
@@ -597,6 +618,7 @@
 
 .pg6div1 {
     margin-top: 0px;
+
 }
 
 #pg6img1 {
@@ -970,23 +992,33 @@
     position: absolute;
     margin-top: 380px;
     margin-left: 1090px;
-    color:white
+    font-size: 18px;
+    color: blanchedalmond;
 }
 
 #pg8img10 {
     position: absolute;
     margin-top: 380px;
     margin-left: 1140px;
+    font-size: 18px;
+    color: blanchedalmond;
 }
 
 #pg8img11 {
     position: absolute;
     margin-top: 380px;
     margin-left: 1190px;
+    font-size: 18px;
+    color: blanchedalmond;
 }
 
 #pg8img12 {
     position: absolute;
     margin-top: 380px;
     margin-left: 1240px;
+    font-size: 18px;
+    color: blanchedalmond;
+}
+body{
+    overflow-x: hidden;
 }
