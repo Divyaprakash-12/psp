@@ -66,10 +66,12 @@
 }
 
 /* first page */
-#pg1img1 {
+
+.page1 {
     width: 1700px;
     height: 1000px;
     margin-top: -158px;
+    background-color: #f0b52b;
 }
 
 #pg1img2 {
@@ -384,6 +386,7 @@
 }
 
 #pg3p3 {
+    margin-left: -130px;
     text-align: center;
     font-size: 75px;
     color: #3752a5;
@@ -406,6 +409,7 @@
     color: #3752a5;
     font-weight: 700;
     padding-left: 80px;
+   
     padding-top: 20px;
     font-family: "Josefin Sans";
 }
